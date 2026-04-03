@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Live Demo
-👉 **[Click here to try the live app](#)** ← *(replace with your Streamlit Cloud link)*
+👉 **[Click here to try the live app](#)** https://real-estate-ml-dashboard.streamlit.app/
 
 ---
 
